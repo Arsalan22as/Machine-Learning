@@ -1,11 +1,6 @@
 # Machine-Learning
 
-
-Here's an enhanced README for your repository:
-
-# Machine-Learning
-
-This repository contains resources and projects from the "100 Days of Machine Learning" series on YouTube.
+This repository contains resources and projects which I learnt from the Machine Learning on YouTube.
 
 ## Prerequisites
 - Basic understanding of Python programming
